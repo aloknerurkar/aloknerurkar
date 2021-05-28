@@ -5,5 +5,11 @@
 - 📫  How to reach me: aloknerurkar@gmail.com
 - ⚡   Fun fact: I have scored 3 goals from the half-way line in football (soccer)
 
+
+
 [![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=aloknerurkar)](https://github.com/aloknerurkar/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aloknerurkar&layout=compact)](https://github.com/aloknerurkar/github-readme-stats)
 
