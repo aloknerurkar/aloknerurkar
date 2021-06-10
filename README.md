@@ -15,4 +15,4 @@
 
 
 
-[![Alok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aloknerurkar)](https://github.com/aloknerurkar/github-readme-stats)
+[![Alok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@aloknerurkar)](https://github.com/aloknerurkar/github-readme-stats)
